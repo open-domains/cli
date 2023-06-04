@@ -1,6 +1,6 @@
 {
   "name": "@open-domains/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Register your own subdomain with Open Domains using your command line.",
   "main": "src/index.js",
   "bin": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/open-domains/cli.git"
   },
   "keywords": [],
-  "author": "William Harrison <william@open-domains.net>",
+  "author": "William Harrison <william@williamharrison.dev>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/open-domains/cli/issues"
