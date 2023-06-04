@@ -58,8 +58,6 @@ module.exports = async function register() {
     let record = `"${recordType}": ${recordValue}`;
 
 let fullContent = `{
-    "$schema": "../schemas/domain.schema.json",
-
     "domain": "${domain}",
     "subdomain": "${subdomain}",
 
@@ -71,7 +69,7 @@ let fullContent = `{
         ${record}
     },
 
-    "proxy": ${proxyStatus}
+    "proxied": ${proxyStatus}
 }
 `;
 
