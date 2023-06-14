@@ -65,7 +65,7 @@ let fullContent = `{
         "email": "${email}"
     },
 
-    "records": {
+    "record": {
         ${record}
     },
 
