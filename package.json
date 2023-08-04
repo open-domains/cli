@@ -1,6 +1,6 @@
 {
   "name": "@open-domains/cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Register your own subdomain with Open Domains using your command line.",
   "main": "src/index.js",
   "bin": {
