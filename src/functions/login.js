@@ -14,7 +14,7 @@ module.exports = async function login() {
 
     const auth = createOAuthDeviceAuth({
         clientType: "oauth-app",
-        clientId: "4f4b7c87e51db2426e15",
+        clientId: "Ov23liWM5Pzcwamjrhs5",
         scopes: ["public_repo, user:email"],
         onVerification(verification) {
             console.log("Open the URL: %s", verification.verification_uri);

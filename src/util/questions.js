@@ -7,7 +7,8 @@ const check = [
             { value: "is-cool.dev" },
             { value: "is-local.org" },
             { value: "is-not-a.dev" },
-            { value: "localplayer.dev" }
+            { value: "localplayer.dev" },
+            { value: "is-a-fullstack.dev"}
         ]
     },
 
@@ -27,7 +28,8 @@ const register = [
             { value: "is-cool.dev" },
             { value: "is-local.org" },
             { value: "is-not-a.dev" },
-            { value: "localplayer.dev" }
+            { value: "localplayer.dev" },
+            { value: "is-a-fullstack.dev"}
         ]
     },
 
